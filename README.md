@@ -1,6 +1,8 @@
 ______________________________________________________  
 
-# ColoRandom   
+# ColoRandom
+
+[coloRandom](https://espressoGoddess.github.io/coloRandom/)
 
 ### Abstract:
 This Application was made with the purpose of generating random color palettes. It also has additional features of locking certain colors in order to create a new color palette without changing the locked colors, and saving color palettes. The user has the ability to delete specific saved palettes if they like. 
@@ -10,10 +12,6 @@ This Application was made with the purpose of generating random color palettes. 
 1. Open terminal and navigate where you would like to store the application. 
 1. Run `git clone git@github.com:Espressogoddess/coloRandom.git` into your terminal.
 1. Run `open index.html` in terminal to open the application in the browser.
-
-#### **Or**
-
-Use this [Deployable Link](https://espressoGoddess.github.io/coloRandom/)
 
 ### Preview of App:
 
